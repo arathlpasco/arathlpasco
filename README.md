@@ -1,4 +1,4 @@
-# Hi, I'm Arath! 👋
+# Hi, I'm Arath L. Pasco! 👋
 
 ### 🎓 Professional Background
 - **Current Status:** Junior at **Miami Dade College** (Information Technology - Networking Concentration).
