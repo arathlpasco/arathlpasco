@@ -1,24 +1,33 @@
-# Hi, I'm Arath L. Pasco! 👋
+# Hi, I'm Arath! 👋
 
-### 🎓 Professional Background
-- **Current Status:** Junior at **Miami Dade College** (Information Technology - Networking Concentration).
-- **Target Roles**: Aspiring **IT Application Support Specialist** and **Internship Candidate** (IT Support, Networking, and Cybersecurity).
+### 🎓 Professional Profile
+* **Academic Status**: Junior at **Miami Dade College** pursuing a B.S. in Information Technology.
+* **Current Role**: Sales Associate at **Under Armour**.
+* **Languages**: **Bilingual** (English & Spanish), providing clear communication for diverse user bases.
+* **Target Roles**: Aspiring **IT Support Specialist**, **Network Technician**, and **Cybersecurity Intern**.
 
 ### 🎯 My Mission
-My mission is to bridge the gap between infrastructure management and security operations through hands-on technical projects. I am driven to master the intersection of **Networks, Security, Cloud, and Coding** to deliver robust and scalable technical support solutions for enterprise environments.
+My mission is to deliver high-quality technical support by mastering the intersection of **Networks, Security, Cloud, and Coding**. I am dedicated to bridging the gap between complex infrastructure management and user-centric problem solving, leveraging my hands-on lab experience and professional customer service background.
 
-### 🚀 5 Technical Skills I'm Developing
-1. **Network Infrastructure:** Configuring OPNsense firewalls for secure routing and gateway management.
-2. **Security Operations:** Implementing the Elastic Stack (SIEM) for log monitoring and threat detection.
-3. **Directory Services:** Managing identity and access through Windows Server 2022 Active Directory.
-4. **Endpoint Management:** Configuring and securing Windows 11 and Linux workstations.
-5. **Technical Documentation:** Creating detailed project roadmaps and troubleshooting guides for IT systems.
+### 🚀 5 Core Technical Skills
+1. **Network Infrastructure**: Configuring **OPNsense** firewalls for secure routing and gateway management.
+2. **Directory Services**: Managing identity and access through **Windows Server 2022 Active Directory**.
+3. **Security Operations**: Implementing the **Elastic Stack (SIEM)** for proactive log monitoring and threat detection.
+4. **Endpoint Management**: Configuring and securing **Windows 11** and **Linux** workstations for enterprise use.
+5. **Technical Documentation**: Creating detailed project roadmaps and troubleshooting guides to ensure system uptime and clarity.
 
 ### 🛠️ Featured Project: Department of Pasco Security (DPS)
-A federal-style Security Operations Network (SOC) simulating a high-security enterprise environment.
-- **Core Components:** Active Directory (Win Server 2022), OPNsense Gateway, and Ubuntu-based SIEM.
-- **Status:** Phase 2 (SIEM Integration & Log Aggregation).
+I am architecting a federal-style SOC/Network homelab to simulate enterprise-level security and support environments.
+* **Network Core**: Managed via an **OPNsense (ARM)** Firewall.
+* **Identity Management**: Centralized via **Windows Server 2022**.
+* **Monitoring**: Utilizing **Ubuntu + Elastic SIEM** for real-time telemetry.
+* **Testing**: Conducting vulnerability assessments using **Kali Linux**.
+
+### 🤝 Professional Hard & Soft Skills
+* **Customer Excellence**: Leveraging my experience at **Under Armour** to provide calm, effective problem-solving in high-pressure environments.
+* **Bilingual Communication**: Able to translate complex technical concepts for both English and Spanish-speaking stakeholders.
+* **Adaptability**: Balancing a rigorous IT curriculum at **MDC** with professional responsibilities.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/arathlpasco/]
-- **Personal Portfolio:** [arathlpasco.com](http://arathlpasco.com) (**Under Development**).
+* **LinkedIn**: [www.linkedin.com/in/arathlpasco]
+* **Personal Portfolio**: [arathlpasco.com](http://arathlpasco.com) (**Currently Under Development**).
