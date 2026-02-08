@@ -2,7 +2,7 @@
 
 ### 🎓 Professional Background
 - **Current Status:** Junior at **Miami Dade College** (Information Technology - Networking Concentration).
-- **Target Role:** Aspiring **IT Application Support Specialist**.
+- **Target Roles**: Aspiring **IT Application Support Specialist** and **Internship Candidate** (IT Support, Networking, and Cybersecurity).
 
 ### 🎯 My Mission
 My mission is to bridge the gap between infrastructure management and security operations through hands-on technical projects. I am driven to master the intersection of **Networks, Security, Cloud, and Coding** to deliver robust and scalable technical support solutions for enterprise environments.
