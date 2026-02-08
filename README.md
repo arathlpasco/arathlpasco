@@ -20,5 +20,5 @@ A federal-style Security Operations Network (SOC) simulating a high-security ent
 - **Status:** Phase 2 (SIEM Integration & Log Aggregation).
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Insert Your LinkedIn Link Here]
+- **LinkedIn:** [https://www.linkedin.com/in/arathlpasco/]
 - **Personal Portfolio:** [arathlpasco.com](http://arathlpasco.com) (**Under Development**).
