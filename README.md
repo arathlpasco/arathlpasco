@@ -4,7 +4,7 @@
 * **Academic Status**: Junior at **Miami Dade College** pursuing a B.S. in Information Technology.
 * **Current Role**: Sales Associate at **Under Armour**.
 * **Languages**: **Bilingual** (English & Spanish), providing clear communication for diverse user bases.
-* **Target Roles**: Aspiring **IT Support Specialist**, **Network Technician**, and **Cybersecurity Intern**.
+* **Target Roles**: Aspiring **IT Support Specialist**, **Network, Cybesecurity, and Cloud Intern**.
 
 ### 🎯 My Mission
 My mission is to deliver high-quality technical support by mastering the intersection of **Networks, Security, Cloud, and Coding**. I am dedicated to bridging the gap between complex infrastructure management and user-centric problem solving, leveraging my hands-on lab experience and professional customer service background.
