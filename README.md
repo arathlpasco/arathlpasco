@@ -9,7 +9,7 @@
 ### 🎯 My Mission
 My mission is to deliver high-quality technical support by mastering the intersection of **Networks, Security, Cloud, and Coding**. I am dedicated to bridging the gap between complex infrastructure management and user-centric problem solving, leveraging my hands-on lab experience and professional customer service background.
 
-### 🚀 5 Core Technical Skills
+### 🚀 5 Core Technical Skills in Progress
 1. **Network Infrastructure**: Configuring **OPNsense** firewalls for secure routing and gateway management.
 2. **Directory Services**: Managing identity and access through **Windows Server 2022 Active Directory**.
 3. **Security Operations**: Implementing the **Elastic Stack (SIEM)** for proactive log monitoring and threat detection.
